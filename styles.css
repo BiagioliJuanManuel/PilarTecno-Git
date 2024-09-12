@@ -64,3 +64,11 @@ textarea {
 .btn:hover {
     background-color: #0056b3;
 }
+
+.btn--danger{
+    background-color: crimson;
+}
+
+.btn--danger:hover{
+    background-color: red;
+}
